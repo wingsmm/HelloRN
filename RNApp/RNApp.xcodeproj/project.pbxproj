@@ -155,6 +155,7 @@
 				TargetAttributes = {
 					1AEEFF391EFD6775007E670B = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 87G4VVJARE;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -370,6 +371,7 @@
 			baseConfigurationReference = 3640166049AC4999E0966835 /* Pods-RNApp.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 87G4VVJARE;
 				INFOPLIST_FILE = RNApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
@@ -387,6 +389,7 @@
 			baseConfigurationReference = 6F4143E58F6D18D735D62AC3 /* Pods-RNApp.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 87G4VVJARE;
 				INFOPLIST_FILE = RNApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
